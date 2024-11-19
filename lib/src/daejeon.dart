@@ -23,5 +23,6 @@ abstract class Daejeon<Event, State, SideEffect> extends Bloc<Event, State> {
     required this.sideEffect,
   }) : super(initialState);
 
+  /// Source of side effect flow
   final StreamController<SideEffect> sideEffect;
 }
