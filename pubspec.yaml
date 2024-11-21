@@ -1,6 +1,6 @@
 name: daejeon
 description: Simple BLoC-based MVI package for Flutter.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Apeiro-Corp/flutter-daejeon
 repository: https://github.com/Apeiro-Corp/flutter-daejeon
 documentation: https://github.com/Apeiro-Corp/flutter-daejeon
